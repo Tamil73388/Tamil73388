@@ -1,16 +1,134 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tamilarasan</h1>
 
-<!--
-**Tamil73388/Tamil73388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+💻 Passionate **MERN Stack Developer** from India who enjoys building modern web applications.
+
+- 🔭 Currently working on **Full-Stack MERN Projects**
+- 🌱 Learning **Generative AI & Advanced Python**
+- ⚡ Love building **scalable web applications**
+- 🎯 Goal: Become a **world-class software engineer**
+- 📚 Always learning **new frameworks and technologies**
+- 🤝 Open to **collaboration and open-source projects**
+
+---
+
+## 🧠 What I Do With MERN
+
+✨ Build **Full-Stack Applications**
+
+⚡ Develop **REST APIs with Node.js & Express**
+
+🎨 Create **Modern UI with React**
+
+🗄️ Design **NoSQL databases using MongoDB**
+
+🔐 Implement **Authentication & Authorization**
+
+🚀 Deploy applications and optimize performance
+
+---
+
+## 🛠️ MERN Stack Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Programming
+- JavaScript
+- Python
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/tamil73388">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/@tamillarasan_">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tamil73388&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil73388&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil73388&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tamil73388&theme=onedark"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tamil73388&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love **turning ideas into real-world web applications** and constantly improving my coding skills.
+
+---
+
+<p align="center">
+⭐ From <b>Tamilarasan</b> | MERN Stack Developer
+</p>
