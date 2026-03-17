@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamilarasan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" />
 </p>
 
 <p align="center">
