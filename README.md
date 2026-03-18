@@ -110,9 +110,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tamil73388&theme=onedark"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tamil73388&theme=onedark" alt="tamil73388's GitHub Trophies" />
+  </a>
 </p>
-
 ---
 
 ## 👀 Visitor Count
