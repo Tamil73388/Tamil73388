@@ -96,12 +96,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tamil73388&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil73388&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamil73388&layout=compact&theme=tokyonight" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tamil73388&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil73388&theme=tokyonight&hide_border=true" height="160"/> </p>
 
 </p>
 
@@ -157,9 +152,9 @@
 💡 I love **turning ideas into real-world web applications** and constantly improving my coding skills.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
-</p>
+
 <p align="center">
 ⭐ From <b>Tamilarasan</b> | MERN Stack Developer
 </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=140&section=footer&text=Keep+Building+🚀&fontSize=22&fontColor=ffffff" /> </p>
