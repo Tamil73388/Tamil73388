@@ -107,13 +107,41 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Developer Universe
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tamil73388&theme=onedark" alt="tamil73388's GitHub Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps;Turning+Ideas+into+Reality;Code.+Debug.+Repeat.;Always+Learning+🚀" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamil73388&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## ⚡ Code Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Fun Dev Loop
+
+<p align="center">
+  🔹 Think → 🔹 Build → 🔹 Break → 🔹 Fix → 🔹 Improve → 🔁 Repeat
+</p>
+
+---
+
+## ✨ Developer Mindset
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br>
+  — John Johnson
+</p>
+
 ---
 
 ## 👀 Visitor Count
@@ -129,7 +157,9 @@
 💡 I love **turning ideas into real-world web applications** and constantly improving my coding skills.
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+</p>
 <p align="center">
 ⭐ From <b>Tamilarasan</b> | MERN Stack Developer
 </p>
