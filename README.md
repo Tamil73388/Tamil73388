@@ -5,17 +5,6 @@
   <img alt="Tamilarasan profile banner" src="dark.svg" width="100%"/>
 </picture>
 </p>
-
-<h1 align="center">Hi 👋, I'm Tamilarasan</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Engineer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya2p2bmZrcHh6ZWRqemxlb2ZmZnUydGRsbm91YzZodGVmdGI2aHc1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="450"/>
-</p>
-
 ---
 
 ## 🚀 About Me
