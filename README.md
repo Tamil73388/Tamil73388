@@ -79,6 +79,10 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
+<a href="mailto:tamilarasan7338855509@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -95,10 +99,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tamil73388&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamil73388&theme=tokyonight&hide_border=true" height="160"/> </p>
-
-</p>
 
 ---
 
